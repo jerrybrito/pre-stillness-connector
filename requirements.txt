@@ -1,0 +1,2 @@
+# Requires: hypothetical-eternity
+# (Not available on PyPI)
